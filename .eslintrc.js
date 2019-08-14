@@ -18,6 +18,7 @@ module.exports = {
         'prettier/prettier': 'error',
         'eol-last': ['error', 'always'],
         'no-console': 'warn',
-        'no-debugger': 'warn'
+        'no-debugger': 'warn',
+        'no-unused-vars': 'warn'
     }
 };
